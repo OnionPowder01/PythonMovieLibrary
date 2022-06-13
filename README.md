@@ -1,6 +1,16 @@
- # Milestone Projects
-In this repository you can find projects that mark my path in learning python.
+ # PythonMovieLibrary
 
-**Teacher**:  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+This is a simple movie library project where:
 
-**Language used:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+**You can add a movie**
+     
+**Search for a movie**
+     
+**Display your list of movies**
+
+
+     
+
+
+
+
