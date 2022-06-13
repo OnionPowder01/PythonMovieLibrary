@@ -1,13 +1,8 @@
  # PythonMovieLibrary
 
-This is a simple movie library project where:
+This is a simple movie library done for fun in python, in which you can: add a movie, search for one and display your newly created movie library.
 
-**You can add a movie**
-     
-**Search for a movie**
-     
-**Display your list of movies**
-
+Tools: PyCharm & Git
 
      
 
